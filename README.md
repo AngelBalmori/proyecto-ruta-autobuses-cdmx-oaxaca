@@ -1,25 +1,22 @@
-# 🚌 Proyecto de Ruta de Autobuses CDMX – Oaxaca (VelociBus)
+# 🚌 Proyecto de Análisis de Ventas – VelociBus (CDMX–Oaxaca)
 
-Este proyecto simula una base de datos de una ruta de autobuses entre Ciudad de México y Oaxaca, con enfoque en:
+Este proyecto simula una base de datos de ventas de boletos de autobús en la ruta CDMX – Oaxaca, usando herramientas de Excel y Power BI para responder preguntas clave del negocio como:
 
-- Paradas intermedias
-- Horarios de salida y llegada
-- Demanda por estación
-- Análisis de rentabilidad
-- Tiempo de viaje promedio
-- Visualización de KPIs clave para la toma de decisiones
+- Tipos de boletos más vendidos (adulto, menor, INAPAM)
+- Horarios con mayor y menor venta
+- Puntualidad de los viajes
+- Distribución de edades de los pasajeros
+- Ingresos generados por fecha, tipo de pasajero y operador
 
 ## 🛠️ Herramientas utilizadas
 
 - **Microsoft Excel** – Generación y limpieza de datos
-- **Power BI** – Visualización interactiva y modelado
-- *(opcional)* **SQL** – Conexión y consultas futuras
+- **Power BI** – Visualización interactiva y análisis de KPIs
 
 ## 📂 Contenido del repositorio
 
-- `ruta_autobuses_velocibus.xlsx`: Base de datos simulada
-- `Dashboard_Ruta_CDMX_Oaxaca.pbix`: Dashboard completo en Power BI
-- `/img`: Capturas del dashboard (opcional)
+- `Base_datos_prueba_ADO.xlsx`: Base de datos simulada de ventas
+- `Caso Analista MobilityADO _VelociBus.pbix`: Dashboard interactivo en Power BI
 
 ---
 
